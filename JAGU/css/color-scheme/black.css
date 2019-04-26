@@ -1,0 +1,18 @@
+p {
+    color: #000;
+}
+i {
+    color: #000
+}
+nav li a {
+    color: #000
+}
+.btn {
+    background-color: #000
+}
+.nav-link{
+    color: #000 !important
+}
+.btn ,.btn i{
+    color: #FFF !important
+}

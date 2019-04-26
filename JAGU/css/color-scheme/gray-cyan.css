@@ -1,0 +1,18 @@
+i {
+    color: #aeced2;
+}
+p{
+    color: #aeced2;
+}
+nav li a {
+    color: #aeced2
+}
+.btn {
+    background-color: #aeced2
+}
+.nav-link{
+    color: #aeced2 !important
+}
+.btn,.btn i{
+    color: #FFF !important
+}
